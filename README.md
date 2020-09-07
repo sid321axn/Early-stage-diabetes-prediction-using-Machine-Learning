@@ -1,5 +1,5 @@
 # Early stage diabetes prediction using Machine Learning
-![thumbnail](thumbnail.PNG)
+![thumbnail](thumbnail.png)
 
 
 ## Project Overview :
