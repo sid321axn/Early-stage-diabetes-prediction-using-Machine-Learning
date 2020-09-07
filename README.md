@@ -1,4 +1,6 @@
 # Early stage diabetes prediction using Machine Learning
+![thumbnail](thumbnail.PNG)
+
 
 ## Project Overview :
 In this project I have predicted the chances of diabetes using Early stage diabetes risk prediction dataset.This has been collected using direct questionnaires from the patients of Sylhet Diabetes Hospital in Sylhet, Bangladesh and approved by a doctor. This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient.
@@ -78,13 +80,13 @@ I have done model evaluation based on following sklearn metric.
 ## Results :
 The result of Logistic Regression and Random forest algorithms with or without feature selection is shown below.
 
-![Result](result.png)
+![Result](result.PNG)
 
 ## Feature Importance :
-![Result](feat_imp.png)
+![Result](feat_imp.PNG)
 
 ## ROC Curve :
-![Result](roc.png)
+![Result](roc.PNG)
 
 
 
