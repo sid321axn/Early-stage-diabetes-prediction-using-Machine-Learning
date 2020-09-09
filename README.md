@@ -1,5 +1,5 @@
 # Early stage diabetes prediction using Machine Learning
-![thumbnail](thumbnail.png)
+[![thumbnail](thumbnail.png)](https://www.youtube.com/watch?v=tK8PGomidp8&t=2s)
 
 
 ## Project Overview :
@@ -8,9 +8,6 @@ In this project I have predicted the chances of diabetes using Early stage diabe
 The datasets consists of several medical predictor variables and one target variable, **class**. Predictor variables includes the Age, gender, Polyuria,Polydipsia  and so on.
 The dataset used is available at [UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
 
-## Video Tutorial
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tK8PGomidp8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Installations :
 This project requires Python 3.x and the following Python libraries should be installed to get the project started:
